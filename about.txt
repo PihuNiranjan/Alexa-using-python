@@ -1,10 +1,8 @@
 "pip install PyAudio" : you can easily use Python to play and record audio on a variety of platforms, 
                         such as GNU/Linux, Microsoft Windows
 
-
 "pip install SpeechRecognition" : Speech recognition, also known as automatic speech recognition 
                                   (ASR),computer speech recognition or '---speech-to-text---'
-
 
 "pip install pywhatkit" : Following are some features of pywhatkit module:
                         ---Send WhatsApp messages.
@@ -14,3 +12,7 @@
 
 
 "pip install pyttsx3"   :  Text to Speech (TTS) library for Python
+
+
+
+
